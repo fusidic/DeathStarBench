@@ -11,5 +11,5 @@ spec:
   resources:
     requests:
       storage: 100Mi
-  storageClassNmae: csi-sc-cinderplugin
+  storageClassName: csi-sc-cinderplugin
 status: {}
